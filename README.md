@@ -1,2 +1,12 @@
 # DiscordJS-MYSQL-GuildPrefix-Cacheing
-Easy code to see how cacheing works.
+
+Required:
+-- Mysql Database
+
+Required npm packages:
+-- mysql2
+-- discord.js
+
+NPM install commands:
+npm install mysql2
+npm install discord.js
